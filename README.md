@@ -1,0 +1,1 @@
+После установки node_modules, в IFCLoader.js mergeGeometries() нужно заменить на mergeBufferGeometries()
